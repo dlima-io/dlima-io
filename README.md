@@ -38,7 +38,7 @@
 
 <div id="spanish-version"></div>
 
-# ¡Hola! Soy Daniel Lima 🚀
+# ¡Hola! Soy Daniel Lima
 
 Soy **Analista de Sistemas** y **programador de procesos**, combino la rigurosidad del entorno farmacéutico con la flexibilidad del desarrollo de software. Mi día a día transcurre entre la lógica industrial de un laboratorio y la creación de **soluciones digitales a medida**. Actualmente, me encuentro completando mi formación como **Licenciado en Informática**, con el objetivo de llevar mi capacidad analítica al siguiente nivel en el mundo del **desarrollo remoto**.
 
@@ -54,7 +54,7 @@ Hoy estoy enfocado en dar el salto como **Junior Developer remoto**, aportando l
 
 <div id="english-version"></div>
 
-# Hi! I'm Daniel Lima 🇺🇸
+# Hi there! I'm Daniel Lima
 
 I am a **Systems Analyst** and **process programmer**, combining the rigor of the pharmaceutical environment with the flexibility of software development. My daily life takes place between the industrial logic of a laboratory and the creation of **custom digital solutions**. Currently, I am completing my degree in **Computer Science**, with the goal of taking my analytical capacity to the next level in the world of **remote development**.
 
