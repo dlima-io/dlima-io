@@ -70,8 +70,8 @@ Today, I am focused on making the leap as a **remote Junior Developer**, contrib
 
 ### Contacto | Contact 📬
 
-| 🇦🇷 Redes | 🌎 Social |
-| :--- | :--- |
-| **LinkedIn:** [linkedin.com/in/dlima-io/](https://www.linkedin.com/in/dlima-io/) | **LinkedIn:** [linkedin.com/in/dlima-io/](https://www.linkedin.com/in/dlima-io/) |
-| **Email:** contact@dlima.io | **Email:** contact@dlima.io |
-| **Ubicación:** Argentina | **Location:** Argentina |
+| 🌎 Social |
+| :--- |
+| **LinkedIn:** [linkedin.com/in/dlima-io/](https://www.linkedin.com/in/dlima-io/)|
+| **Email:** contact@dlima.io |
+| **Location:** Argentina |
